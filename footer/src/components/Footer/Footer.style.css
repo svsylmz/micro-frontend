@@ -1,0 +1,9 @@
+@import "antd/dist/antd.css";
+
+.svs-footer {
+  text-align: center;
+  background: #001529;
+  color: #fff;
+  font-weight: bold;
+  margin-top: 10px;
+}
